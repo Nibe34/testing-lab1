@@ -1,9 +1,5 @@
 # README — Code Review Remarks
 
-Below are the key remarks about the original code.  
-Only the **essential and meaningful issues** are listed, without excessive strictness.
-
----
 
 ### 1. Class names do not follow Java conventions
 `humanIMB` should be renamed to `BmiCalculator` or similar using PascalCase.
